@@ -1,0 +1,1 @@
+scp -r ./dist/* root@106.52.54.118:/data/web
